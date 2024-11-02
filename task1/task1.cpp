@@ -2,6 +2,16 @@
 
 #include <iostream>
 
+class Point
+{
+public:
+
+
+private:
+
+};
+
+
 int main()
 {
 
